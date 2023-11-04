@@ -50,7 +50,7 @@ if [ "$MD5_DAVINCI_RUN" != "$MD5_DAVINCI_RUN_FILE" ]; then
 fi
 
 export SKIP_PACKAGE_CHECK=1
-#sudo ./DaVinci_Resolve_18.6.2_Linux.run
+sudo ./DaVinci_Resolve_18.6.2_Linux.run
 
 rm -fr usr
 rpm2cpio ./gdk-pixbuf2-2.42.10-2.fc38.x86_64.rpm | cpio -idmv
