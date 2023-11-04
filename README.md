@@ -1,4 +1,4 @@
-# Script for easy installation DaVinci Resolve 18 in openSuSE Tumbleweed
+# Script for easy installation DaVinci Resolve 18 on openSuSE Tumbleweed
 
 ```bash
 sh install_davinci_resolve.sh
